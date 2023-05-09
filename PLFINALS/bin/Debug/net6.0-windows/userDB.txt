@@ -1,0 +1,12 @@
+Gab, 12, gab@gmail.com
+quinta, 12345, quinta@gmail.com
+Thesis, 123, thesis@gmail.com
+Logi, 1234, logi@gmail.com
+Employee, 1234, emp@gmail.com
+Employee2, 1234, emp2@gmail.com
+Milo Dino, xdxd, milodino@gmail.com
+asd, asd, sad
+dhankeyy, 123, dhancovic@gmail.com
+hello, 123, hello@gmail.com
+mino, 123, mino123@gmail.com
+quinta, 1234, quinta@gmail.com
